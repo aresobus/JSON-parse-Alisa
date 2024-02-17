@@ -1,0 +1,28 @@
+[
+    {
+      "definition": "The process of transferring files from a computer to a server or vice versa",
+      "possibleTerms": ["Downloading", "Browsing", "FTP", "Uploading"],
+      "correctDefinition": 3
+    },
+    {
+      "definition": "A set of rules governing the format of data sent over the Internet or other network",
+      "possibleTerms": ["Protocol", "Algorithm", "API", "Framework"],
+      "correctDefinition": 0
+    },
+    {
+      "definition": "A software application used for viewing and navigating the internet",
+      "possibleTerms": ["Browser", "Search Engine", "Operating System", "Firewall"],
+      "correctDefinition": 0
+    },
+    {
+      "definition": "The main circuit board of a computer",
+      "possibleTerms": ["CPU", "Hard Drive", "Motherboard", "Graphics Card"],
+      "correctDefinition": 2
+    },
+    {
+      "definition": "A programming language known for its use in web development",
+      "possibleTerms": ["Python", "JavaScript", "C++", "Java"],
+      "correctDefinition": 1
+    }
+  ]
+  
